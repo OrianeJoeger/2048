@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
 from affichage import *
 from saisie import *
 from mouvements import *
